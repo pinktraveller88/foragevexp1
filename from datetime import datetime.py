@@ -100,11 +100,6 @@ A discount must be applied before tax is determined.
 Therefore, the formula to calculate the invoice price is:
 discount must be converted to decimal:
 price x ((100-discount)/100) x (1 + tax)   > do for all items and add together
-
-“Why are you interested in this role?”
-I recently participated in New York Jobs CEO Council's Job Simulation on the Forage platform, and it was incredibly useful to understand what it might be like to participate in a Software Engineering team.
-I practiced patching a code and creating code to support a feature request in a realistic context and learned more about effectively developing applicable features.
-Doing this program confirmed that I really enjoy working on communicating technical information, and I'm excited to apply these skills in a Software Engineering team at one of NYJCC's companies.
 '''
 
 
